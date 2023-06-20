@@ -6,7 +6,7 @@ Currently looking for work.
 ### Languages:
 Python, SQL, R
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,r,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,r,)](https://skillicons.dev)
 
 ### Packages:
 Tidyverse
