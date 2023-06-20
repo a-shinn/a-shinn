@@ -4,7 +4,7 @@ I'm a data analyst based in Northbrook, Illinois - learning Python, SQL, and Tab
 
 Currently looking for hybrid and remote roles.
 
-### Programming Languages 🚀
+### Programming Languages 👾
     Python
       - pandas
       - numpy
