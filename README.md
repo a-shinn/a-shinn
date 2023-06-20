@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a data analyst based in Northbrook, Illinois - currently learning Python, SQL, and Tableau with experience in R and Excel.
+My name is Austin Shinn - I'm a data analyst based in Northbrook, Illinois, currently learning Python, SQL, and Tableau with experience in R and Excel.
 
-Currently looking for hybrid and remote roles.
+Looking for hybrid and remote roles!
 
 ### Programming Languages
     Python
