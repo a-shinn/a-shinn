@@ -9,7 +9,29 @@ Python, SQL, R
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,r,)](https://skillicons.dev)
 
 ### Packages:
-Tidyverse
+Pandas
+
+Numpy
+
+BeautifulSoup4
+
+Re
+
+Requests
+
+Time
+
+Matplotlib
+
+Plotly
+
+PIL
+
+WordCloud
+
+Stop_words
+
+Scipy
 
 
 ### Software/IDEs:
