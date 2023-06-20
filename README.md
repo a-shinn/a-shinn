@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a data analyst based in Northbrook, Illinois - currently studying Python and SQL with experience in R and Excel.
+I'm a data analyst based in Northbrook, Illinois - currently learning Python, SQL, and Tableau with experience in R and Excel.
 
 Currently looking for hybrid and remote roles.
 
@@ -14,7 +14,7 @@ Currently looking for hybrid and remote roles.
       - JSON
       - requests
       - re
-      - misc libraries: spotipy, tqdm, time
+      - misc: spotipy, tqdm, time
 
     SQL
       - PostgreSQL
@@ -25,9 +25,9 @@ Currently looking for hybrid and remote roles.
       - rmarkdown
 
 ### Software & IDEs Used
-    Tableau
-    Excel
-    Jupyter Notebook
-    PyCharm
-    VS Code
-    RStudio
+    - Jupyter Notebook
+    - PyCharm
+    - Tableau
+    - Excel
+    - VS Code
+    - RStudio
