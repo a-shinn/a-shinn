@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+I'm a data analyst based in Northbrook, Illinois - currently studying Python and SQL with previous experience in R and Excel.
+Currently looking for work.
+
+### Languages:
+Python, SQL, R
+
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,r,)](https://skillicons.dev)
+
+### Packages:
+Tidyverse
+
+
+### Software/IDEs:
+
+Jupyter Notebook
+
+Excel
+
+Tableau
+
+PyCharm
+
+VS Code
+
+RStudio
+
 <!--
 **austin-shinn/austin-shinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
