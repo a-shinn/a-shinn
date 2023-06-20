@@ -1,64 +1,14 @@
 ### Hi there 👋
 
-I'm a data analyst based in Northbrook, Illinois - currently studying Python and SQL with previous experience in R and Excel.
-Currently looking for work.
+I'm a data analyst based in Northbrook, Illinois - currently studying Python and SQL with experience in R and Excel.
 
-### Languages:
-Python, SQL, R
+Currently looking for hybrid and remote roles.
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,r,)](https://skillicons.dev)
+### Languages/Software:
+Python, SQL, R, Excel, Jupyter Notebook, Excel, Tableau, PyCharm, VS Code, RStudio
 
 ### Packages:
-Pandas
 
-Numpy
+Pandas, Numpy, BeautifulSoup4, Re, Requests, JSON, Time, Matplotlib, Plotly, PIL, WordCloud, Stop_words, Scipy
 
-BeautifulSoup4
-
-Re
-
-Requests
-
-Time
-
-Matplotlib
-
-Plotly
-
-PIL
-
-WordCloud
-
-Stop_words
-
-Scipy
-
-
-### Software/IDEs:
-
-Jupyter Notebook
-
-Excel
-
-Tableau
-
-PyCharm
-
-VS Code
-
-RStudio
-
-<!--
-**austin-shinn/austin-shinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,r,)](https://skillicons.dev)
