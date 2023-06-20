@@ -5,16 +5,16 @@ Currently looking for hybrid and remote roles.
 
 ### Programming Languages
     Python
-      - Pandas
-      - Numpy
-      - Matplotlib
-      - Plotly
+      - pandas
+      - numpy
+      - matplotlib
+      - plotly
       - BeautifulSoup4
-      - Scipy
+      - scipy
       - JSON
       - requests
       - re
-      - misc: Spotipy, tqdm, time
+      - misc: spotipy, tqdm, time
 
     SQL
       - PostgreSQL
