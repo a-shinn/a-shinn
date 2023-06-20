@@ -24,18 +24,10 @@ Currently looking for hybrid and remote roles.
       - ggplot2
       - rmarkdown
 
-### Software & IDEs
+### Software & IDEs Used
     Tableau
     Excel
     Jupyter Notebook
     PyCharm
     VS Code
     RStudio
-
-### Data formats
-    XLSX
-    CSV
-    TSV
-    SQL databases
-    JSON
-    XML
