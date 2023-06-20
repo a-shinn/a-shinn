@@ -10,5 +10,3 @@ Python, SQL, R, Excel, Jupyter Notebook, Excel, Tableau, PyCharm, VS Code, RStud
 ### Packages:
 
 Pandas, Numpy, BeautifulSoup4, Re, Requests, JSON, Time, Matplotlib, Plotly, PIL, WordCloud, Stop_words, Scipy
-
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,r,)](https://skillicons.dev)
