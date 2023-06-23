@@ -11,9 +11,10 @@ Currently looking for hybrid and remote roles.
       - matplotlib
       - plotly
       - scipy
+      - re
       - BeautifulSoup4
       - requests
-      - misc: re, JSON, tqdm, time, spotipy
+      - misc: JSON, tqdm, time, spotipy
 
     SQL
       - PostgreSQL
