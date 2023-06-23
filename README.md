@@ -14,7 +14,7 @@ Currently looking for hybrid and remote roles.
       - re
       - BeautifulSoup4
       - requests
-      - misc: JSON, XML, tqdm, time, spotipy
+      - misc: tqdm, time, spotipy, JSON, XML
 
     SQL
       - PostgreSQL
