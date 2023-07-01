@@ -1,6 +1,8 @@
 ### Hi there! 👋
 
-I'm a data analyst based in Northbrook, Illinois. Currently looking for hybrid and remote roles.
+I'm a data analyst based in Northbrook, Illinois.
+
+Currently looking for hybrid and remote roles.
 
 ### Programming Languages 👾
     Python
