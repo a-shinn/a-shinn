@@ -2,8 +2,7 @@
 
 I'm a data analyst based in Northbrook, Illinois.
 
-Currently looking for hybrid and remote roles.
-
+Currently looking for work.
 ### Programming Languages 👾
     Python
       - pandas
